@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RileyL-lab
 - 😄 Pronouns: he/him
-- 👀 I’m interested in Data Analytics and Translation
+- 👀 I’m interested in Data Analytics, NLP and Translation
 - 🌱 I’m based in Germany
 - 🗣️ I can communicate in English, German, Italian, Russian
 - 💞️ I’m looking to collaborate on Multilingual Data Analysis Projects aimed to improve Customer Service Satisfaction for International Clientele and Localization Operations 
