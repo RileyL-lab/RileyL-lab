@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Analytics and Translation
 - 🌱 I’m based in Germany
 - 🗣️ I can communicate in English, German, Italian, Russian
-- 💞️ I’m looking to collaborate on Multilingual Data Analysis Projects aimed to improve Customer Service Satisfaction for Internaltional Clientele and Localization Operations 
+- 💞️ I’m looking to collaborate on Multilingual Data Analysis Projects aimed to improve Customer Service Satisfaction for International Clientele and Localization Operations 
 - 📫 How to reach me: riley.lavetti@gmail.com
 
 
